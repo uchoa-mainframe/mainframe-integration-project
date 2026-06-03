@@ -12,18 +12,6 @@ A proposta foi simular um fluxo real de consulta de extrato bancário, conectand
 
 ---
 
-## Codigo do Programa COBOL (GNU/Linux)
-
-![Execução COBOL](docs/PROG-COBOL-GNU.png)
-
----
-
-## Executando o programa via Linux
-
-![Comandos Linux](docs/LINUX-COMANDO.png)
-
----
-
 ## Objetivo do Projeto
 
 Mais do que executar um programa COBOL, o objetivo foi entender como integrar sistemas legados com aplicações modernas, reproduzindo desafios comuns encontrados em ambientes corporativos.
