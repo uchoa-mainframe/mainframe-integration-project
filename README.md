@@ -1,4 +1,4 @@
-# 🏦 Mainframe Bank Statement Project
+# Mainframe Bank Statement Project
 
 Projeto desenvolvido para estudar integração entre aplicações modernas e sistemas legados utilizando COBOL.
 
@@ -6,7 +6,7 @@ A proposta foi simular um fluxo real de consulta de extrato bancário, conectand
 
 ---
 
-## 🚀 Arquitetura da Solução
+## Arquitetura da Solução
 
 ```text
 Frontend Web
@@ -22,25 +22,25 @@ Retorno em JSON para a aplicação
 
 ---
 
-## 🖥️ Tela Inicial
+## Tela Inicial
 
 ![Tela Inicial](docs/TELA-INICIAL-PROG.png)
 
 ---
 
-## ⚙️ Execução do COBOL (GNU/Linux)
+## Execução do COBOL (GNU/Linux)
 
 ![Execução COBOL](docs/PROG-COBOL-GNU.png)
 
 ---
 
-## 🐧 Comandos Linux Utilizados
+## Linux
 
 ![Comandos Linux](docs/LINUX-COMANDO.png)
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Mais do que executar um programa COBOL, o objetivo foi entender como integrar sistemas legados com aplicações modernas, reproduzindo desafios comuns encontrados em ambientes corporativos.
 
@@ -56,7 +56,7 @@ Durante o desenvolvimento foram explorados conceitos como:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - COBOL
 - Java
@@ -70,7 +70,7 @@ Durante o desenvolvimento foram explorados conceitos como:
 
 ---
 
-## 📚 Aprendizados
+## Aprendizados
 
 Um dos principais aprendizados deste projeto foi perceber que a complexidade muitas vezes não está na tecnologia isoladamente, mas na integração entre diferentes componentes sem impactar sistemas já existentes.
 
