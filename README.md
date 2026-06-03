@@ -1,24 +1,8 @@
-# Mainframe Bank Statement Project
+# Sistema Bancário - Extrato 
 
-Projeto desenvolvido para estudar integração entre aplicações modernas e sistemas legados utilizando COBOL.
+Projeto desenvolvido integrando aplicações modernas e sistemas legados utilizando COBOL.
 
 A proposta foi simular um fluxo real de consulta de extrato bancário, conectando diferentes camadas da aplicação para demonstrar como tecnologias modernas podem consumir informações processadas por programas COBOL.
-
----
-
-## Arquitetura da Solução
-
-```text
-Frontend Web
-     ↓
-API Java + Spring Boot
-     ↓
-Programa COBOL (GNU/Linux)
-     ↓
-Processamento do Extrato
-     ↓
-Retorno em JSON para a aplicação
-```
 
 ---
 
