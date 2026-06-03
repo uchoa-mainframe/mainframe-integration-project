@@ -28,13 +28,13 @@ Retorno em JSON para a aplicação
 
 ---
 
-## Execução do COBOL (GNU/Linux)
+## Codigo do Programa COBOL (GNU/Linux)
 
 ![Execução COBOL](docs/PROG-COBOL-GNU.png)
 
 ---
 
-## Linux
+## Executando o programa via Linux
 
 ![Comandos Linux](docs/LINUX-COMANDO.png)
 
