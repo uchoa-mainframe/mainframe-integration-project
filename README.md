@@ -50,7 +50,7 @@ Também reforçou a importância de desenvolver pensando na manutenção futura 
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Daniel Uchôa
 
