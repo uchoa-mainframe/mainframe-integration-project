@@ -8,7 +8,7 @@ Projeto de integração entre COBOL e Linux com execução de programa de extrat
 
 \---
 
-## Tela inicial do sistema
+## Tela inicial do sistema após efetuar login e entrar na aba de extrato
 
 ![Tela Inicial](docs/TELA-INICIAL-PROG.png)
 
