@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mainframe Bank</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>BANCO DO DANIEL</h1>
+
+        <div id="login">
+
+            <input
+                type="text"
+                id="conta"
+                placeholder="Conta">
+
+            <input
+                type="password"
+                id="senha"
+                placeholder="Senha">
+
+            <button onclick="entrar()">
+                Entrar
+            </button>
+
+        </div>
+
+        <div id="menu" style="display:none;">
+
+            <h2>Menu Principal</h2>
+
+            <button onclick="consultarExtrato()">
+                Extrato
+            </button>
+
+            <button disabled>
+                Transferências
+            </button>
+
+            <button disabled>
+                Depósito
+            </button>
+
+            <button disabled>
+                PIX
+            </button>
+
+        </div>
+
+        <div id="resultado"></div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
